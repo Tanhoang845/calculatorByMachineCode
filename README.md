@@ -4,7 +4,7 @@
   <li> Viết máy tính bỏ túi bằng mã máy có thể làm tăng tốc khả năng tính toán của các phép tính lên rất nhiều lần. </li>
   <li> Thực hiện được các phép tính liên tiếp, bổ sung toán tử lấy module. </li>
   <li> Có màn hình LED để giúp người dùng xác nhận phím đã nhập. </li>
-  <li> Ngoài ra còn có thể kiểm soát các lỗi over flow, divide by zero với chi phí tính toán thấp. </li>
+  <li> Ngoài ra còn có thể kiểm soát các lỗi over flow, divide by zero với chi phí xử lý thấp. </li>
 </ul>
 
 ## CÁCH CÀI ĐẶT
